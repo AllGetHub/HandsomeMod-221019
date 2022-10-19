@@ -1,7 +1,7 @@
-<p align="center"><img src="img/logo.png" /></p>
+#<p align="center"><img src="img/logo.png" /></p>
 <h1 align="center">HandsomeMod 21.03</h1>
 <h4 align="center">IOT Freedom For End-user!</h4>
-<p align="center"><img  height="200" width="300" src="img/wayland.png" /><img  height="200" width="300" src="img/xorg.png" /></p>
+#<p align="center"><img  height="200" width="300" src="img/wayland.png" /><img  height="200" width="300" src="img/xorg.png" /></p>
 
 ## Feature Overview
 
